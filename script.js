@@ -1,5 +1,5 @@
 console.log("script.js [/script.js] loaded successfully")
-document.cookie="Coder100=Who_are_you?"
+document.cookie = "Coder100=Who_are_you?"
 console.log("script.js [/script.js] finished")
 
 function listing() {
