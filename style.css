@@ -1,0 +1,22 @@
+.topbanner {
+    background-image: url("/assets/png/bbbaner.png");
+    background-position: center;
+    text-align: center;
+    vertical-align: middle;
+    height: 200px;
+    padding: 20px;
+    
+}
+.tbbox {
+    background: rgba(255, 255, 255, 0.651);
+    margin: auto;
+    vertical-align: middle;
+    text-align: center;
+    width: 50%;
+}
+tbtext {
+    font-size: 75px;
+    text-align: center;
+    vertical-align: middle;
+    opacity: 1;
+}
